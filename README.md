@@ -1,1 +1,1 @@
-# Pathfinder-Discord-Calculator
+# DnD Bot
